@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a passionate software developer with more than 5 years of experience and continuous growth. 
+Lifelong learner.
+Husband and a father. 
+- 🌱 Currently expanding my expertise into System Design / Cloud Architecture.
+- 💻 [LinkedIn](https://www.linkedin.com/in/robert-kamenski-0166a319a) 
+
+<br/>My skills: 
+<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,postgres,ts,nodejs,angular,mongodb,redis,docker,azure,ubuntu,git,githubactions)](https://skillicons.dev)
 <!--
 **robk99/robk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
