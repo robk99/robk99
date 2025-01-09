@@ -3,7 +3,7 @@
 I'm a passionate software developer with more than 5 years of experience and continuous growth. 
 Lifelong learner.
 Husband and a father. 
-- 🌱 Currently expanding my expertise into System Design / Cloud Architecture.
+- 🌱 Currently expanding my expertise into Data Engineering/DevOps.
 - 💻 [LinkedIn](https://www.linkedin.com/in/robert-kamenski-0166a319a) 
 
 <br/>My skills: 
